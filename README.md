@@ -1,4 +1,4 @@
-# stepikods
+﻿# stepikods
 - Here there my notebooks with ODS and Stepik courses
 - ODS course is similar to https://mlcourse.ai/
 - Stepik course is here https://stepik.org/course/4852/syllabus
@@ -27,7 +27,7 @@
 - XGBoost, LightGBM, Catboost
 
 
-TEST MESSAGE
+Also I included my trainings dedicated to algorithms and data structures
 
 
 

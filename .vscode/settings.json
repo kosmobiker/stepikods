@@ -1,0 +1,5 @@
+{
+    "jupyter.jupyterServerType": "local",
+    "telemetry.enableCrashReporter": false,
+    "telemetry.enableTelemetry": false
+}
