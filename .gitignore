@@ -16,3 +16,5 @@ git rm -r .catboost_info/
 /data
 /misc
 */.catboost_info/*
+/.vscode
+
